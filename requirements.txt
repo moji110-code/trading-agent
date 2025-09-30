@@ -1,0 +1,6 @@
+requests
+pandas
+mplfinance
+yfinance
+ccxt
+python-dotenv
